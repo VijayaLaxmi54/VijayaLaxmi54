@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VijayaLaxmi54
+- 👋 Hi, I’m Vijaya Laxmi
 - 👀 I’m interested in Hacking,Web development
 - 🌱 I’m currently learning Computer Science 
 - 📫 How to reach me gedalavijayalaxmi@gmail.com
